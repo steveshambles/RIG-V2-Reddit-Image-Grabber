@@ -1,5 +1,5 @@
 # RIG-V2-Reddit-Image-Grabber
-Simple GUI, but with many features, to download images in bulk from Reddit subreddits.
+Simple GUI to download images in bulk from Reddit subreddits.
 
 Tested on Windows 7 and Linux Mint 19.1
 
